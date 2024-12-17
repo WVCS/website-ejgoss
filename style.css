@@ -1,4 +1,3 @@
-
 body{
   background-color: #D8F1EA;
 }
@@ -14,11 +13,11 @@ h2 {
 }
     h2:hover {
       text-shadow: 2px 2px 5px #AFC283;
-      font-size: 200%; 
+      font-size: 200%;
+      img-size: 50%;
   }
   img{
     width: 20%;
-    border: dashed 1px;
+    border: groove #FFEFF6 3px;
   }
 }
-
