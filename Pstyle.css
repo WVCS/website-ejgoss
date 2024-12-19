@@ -1,0 +1,33 @@
+body{
+  background-color: #D8F1EA;
+}
+a{
+  text-decoration: none;
+  color: darkblue;
+  font-variant: small-caps;
+  font-size: 120%;
+  letter-spacing: 2px;
+  word-spacing: 20px;
+  padding: 14px 16px;
+}
+
+.topnav{
+  background-color: #FFEFF6;
+  background-size: 120%;
+}
+
+h3 {
+  color: #545F66;
+  font-size: 170%;
+  font-variant: small-caps;
+  text-decoration-line: overline underline;
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  text-shadow: 2px 2px 5px;
+}
+    h3:hover {
+      text-shadow: 2px 2px 5px #AFC283;
+      font-size: 200%;
+  }
+  
+  }
